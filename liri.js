@@ -1,25 +1,28 @@
-var axios = require("axios");
 // import axios from "axios";
-var Spotify = require("node-spotify-api");
+// var Spotify = require("node-spotify-api");
 require("dotenv").config();
-var keys = require("./keys.js");
+
 // console.log(keys)
 
-var spotify = new Spotify(keys.spotify);
+// var spotify = new Spotify(keys.spotify);
 
+var searchSpotify = require("./searchSpotify")
+var bands = require("./bandsInTown")
 
 var something = process.argv[2];
-if (something === "concert-this"){
-var artist = process.argv[3];
-console.log(artist)
-    axios({
-    url: "https://https://rest.bandsintown.com/artists/" + artist + "/events?app_id=trilogy",
-    method: "get"
-})
-.then(function (response) {
-    console.log(response);
-  })
-  .catch(function (error) {
-    console.log("you have an error", error);
-  })
+switch (something) {
+  case "spotify-this-song":
+    searchSpotify(process.argv[3]);
+    break;
+  case "concert-this":
+    bands(process.argv[3]);
+    break;
+    case "movie-this":
+    omdb(process.argv[3]);
+    // break;
+    // case "do-what-say":
+    // searchLiri(process.argv[3]);
+    // break;
+  default:
+    break;
 }

@@ -1,13 +1,6 @@
+// this is how i add notes
+
 exports.spotify={
 id:process.env.SPOTIFY_ID,
-secret:process.env.SPOTIFY_KEY
+secret:process.env.SPOTIFY_SECRET
 };
-
-
-// axios({
-//     url: 'https://dog.ceo/api/breeds/list/all',
-//     method: 'get',
-//     data: {
-//       foo: 'bar'
-//     }
-//   })
