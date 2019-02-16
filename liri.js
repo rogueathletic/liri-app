@@ -5,10 +5,11 @@
 // by seperating each API, it is easier for me to walk through the program and target specific parts of it
 require("dotenv").config();
 
-var searchSpotify = require("./searchSpotify");  // calls from the spotify API page
-var bands = require("./bandsInTown");  // calls from the Bands In Town API page
-var omdb = require("./omdb");  // calls from the OMDB API page
-var doWhatISay = require("./doWhatISay");   // calls from the alt spotify page Do what i say API page
+var searchSpotify = require("./searchSpotify.js");  // calls from the spotify API page
+var keys = require("./keys.js");
+var bands = require("./bandsInTown.js");  // calls from the Bands In Town API page
+var omdb = require("./omdb.js");  // calls from the OMDB API page
+var doWhatISay = require("./doWhatISay.js");   // calls from the alt spotify page Do what i say API page
 var something = process.argv[2];
 switch (something) {
   case "spotify-this-song":
@@ -25,4 +26,5 @@ switch (something) {
     break;
   default:
     break;
-}
+
+  }

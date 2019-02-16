@@ -5,7 +5,7 @@ var bands = require("./bandsInTown");
 var omdb = require("./omdb");
 function doWhatISay() {
     fs.readFile('./random.txt', 'utf8', function (err, contents) {
-        fs.appendFile("log.txt", JSON.stringify(response.data), function (err) {
+        fs.appendFile("log.txt", JSON.stringify(), function (err) {
           
         var random = contents.split(",");
         
@@ -28,5 +28,5 @@ function doWhatISay() {
 });
 }
 
-module.exports = doWhatISay();
+module.exports = doWhatISay;
 
