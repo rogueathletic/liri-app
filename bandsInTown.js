@@ -1,5 +1,5 @@
 var axios = require("axios");
-
+var fs = require("fs");
 function bands(query) {
     var artist = query;
     console.log(artist);
@@ -8,6 +8,13 @@ function bands(query) {
             method: "get"
         })
         .then(function (response) {
+            fs.appendFile("log.txt", JSON.stringify(response.data), function (err) {
+                if (err) {
+                  console.log("error oh my: ", err);
+                } else {
+                  // console.log(response.data); /* when un comented out this will give evrerything */
+                }
+              });
             var data = response.data;
             for (var i = 0; i < data.length; i++) {
                 console.log(data[i].venue.name, data[i].venue.city, data[i].datetime);

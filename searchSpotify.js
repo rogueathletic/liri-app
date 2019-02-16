@@ -1,10 +1,15 @@
 var Spotify = require("node-spotify-api");
 var keys = require("./keys.js");
 var spotify = new Spotify(keys.spotify);
-
+var fs = require("fs");
 function searchSpotify(construct) {
-
-  
+  fs.appendFile("log.txt", JSON.stringify(response.data), function (err) {
+    if (err) {
+      console.log("error oh my: ", err);
+    } else {
+      // console.log(response.data); /* when un comented out this will give evrerything */
+    }
+  });
   var artist = construct;
   spotify.search({
       type: 'track',
