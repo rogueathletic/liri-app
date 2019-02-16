@@ -1,0 +1,5 @@
+# this is how i add notes. Can not add notes after code only in individual line
+
+node_modules
+.DS_Store
+.env 
