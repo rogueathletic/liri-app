@@ -3,8 +3,9 @@ var fs = require("fs");
 function omdb(query) {
     var movie = query;
     
+    if (!movieIsUndefined(movie)) {
     // console.log(movie);
-    axios({
+      axios({
        url: "http://www.omdbapi.com/?t=" + movie + "&y=&plot=short&apikey=trilogy",
             method: "get"
         })
@@ -12,12 +13,11 @@ function omdb(query) {
             // var data = response.data;
 
             fs.appendFile("log.txt", JSON.stringify(response.data), function (err) {
-                if (err) {
-                  console.log("error oh my: ", err);
-                } else {
-                  // console.log(response.data); /* when un comented out this will give evrerything */
-                }
-              });
+              if (err) {
+                console.log("error oh my: ", err);
+              }
+            });
+
             console.log("                               ");
             console.log(">----------THE----------------<");
             console.log(">----------OPEN---------------<");
@@ -40,75 +40,28 @@ function omdb(query) {
             console.log(">----------DATABASE-----------<");
             console.log(">----------END----------------<");
             console.log("                               ");
-
         });
+      }
 
-        // .catch(function (error) {
-        //     if (omdb === "") {
-        //       console.log("you have an error", error);
-        //     }
-        // });
+
+        
 
 
   
 }
+
+function movieIsUndefined(inputParam) {
+  if (inputParam === undefined) {
+      inputParam = "Mr. Nobody";
+      console.log("-----------------------");
+      fs.appendFileSync("log.txt", "-----------------------\n");
+      console.log("If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/");
+      fs.appendFileSync("log.txt", "If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/" + "\n");
+      console.log("It's on Netflix!");
+      fs.appendFileSync("log.txt", "It's on Netflix!\n");
+      return true;
+  }
+  return false;
+}
+
 module.exports = omdb;
-
-
-
-
-          //  function (err, data) {
-          //     if (err) {
-          //       return console.log('Error occurred: ' + err);
-          //     }}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// var axios = require("axios");
-// function omdb(query) {
-//     var key = process.env.KEY;
-//     var movie = query;
-//     console.log(movie);
-
-	
-// 	if (movie === '') {
-// 		search = 'Pee Wee Hermans Big Adventure';
-// 	} else {
-// 		search = movie;
-// 	}
-
-// axios({
-//      url: `http://www.omdbapi.com/?apikey=${key}&${movie}`,
-// method: `get`
-// })
-// .then(function (response) {
-//     var data = response.data;
-//     for (var i = 0; i < data.length; i++){
-//     console.log("Movie title: ", data[i].title)
-//     console.log("Year movie was released: ", data[i].year)
-//     console.log("Movie rating: ", data[i].rated)
-//     console.log("Rotten Timmatoes rating: ", data[i].ratings[1].value)
-//     console.log("Country the movie was made: ", data[i].country)
-//     console.log("Language the movie was filmed in: ", data[i].language)
-//     console.log("The Plot of the movie: ", data[i].plot)
-//     console.log("The key: ", data[i].actors)
-//   }})
-//   .catch(function (error) {
-//     console.log("you have an error", error);
-//   })
-// }
-// module.exports = omdb;
