@@ -58,7 +58,7 @@ Bandsintown is a music website, billed as a "platform where artists and fans con
 <img src="https://i.imgur.com/8Gj6AtC.png" width="100%" height="auto" alt="image of bandsInTown.js response code">
 <p>When null or undefined are submitted, there is no set response for the system to send back. Because of this we want to make sure we provide a response so the user knows not only there was an error while providing a return value for the users submission. You can review this response below</p>
 
-<h2></h2>
+<h2>NULL/Undefined print-out</h2>
 <img src="https://i.imgur.com/r76aWBo.png" width="100%" height="auto" alt="image of bandsInTown.js log.txt script">
 
 
