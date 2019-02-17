@@ -68,6 +68,6 @@ Bandsintown is a music website, billed as a "platform where artists and fans con
 <img src="https://i.imgur.com/KE1Dgfc.png" width="100%" height="auto" alt="image of bandsInTown.js page code">
 <hr>
 <h2>OMDB</h2>
-<p>the OMDB and the Band sIn Town API calls follow may of the exact same processes. They both utilize an api key and have the same formatting for returning errirs, logging error content and returning a value if the user submits a qualified or an unqualified statement. The code to into in terminal for this api is listed below</p>
-``` node liri.js movie-this [movie title]```
+<p>the OMDB and the Band sIn Town API calls follow may of the exact same processes. They both utilize an api key and have the same formatting for returning errirs, logging error content and returning a value if the user submits a qualified or an unqualified statement. The code to into in terminal for this api is listed below.
+``` node liri.js movie-this [movie title]```</p>
 <img src="https://i.imgur.com/TvU4Flz.png" width="100%" height="auto" alt="image of omdb.js page code">
