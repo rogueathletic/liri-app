@@ -42,7 +42,7 @@ The First objective was to structure the content in away that allowed me to form
 </ul>
  </p>
  
-<img src="https://i.imgur.com/PrXmaJv.png" width="500" height="auto" alt="image of liri.js page code">
+<img src="https://i.imgur.com/PrXmaJv.png" width="100%" height="auto" alt="image of liri.js page code">
 
 <hr>
 <h2 alt="Bands in town api">Bands In Town</h2>
