@@ -41,4 +41,4 @@ The First objective was to structure the content in away that allowed me to form
   <li>wild card | do-what-i-say</li>
 </ul>
  </p>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/zIldNHi"><a href="//imgur.com/zIldNHi">liri.js</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://i.imgur.com/PrXmaJv.png" alt="Trulli" width="500" height="auto">
