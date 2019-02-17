@@ -32,7 +32,7 @@ The First objective was to structure the content in away that allowed me to form
 </ul>
 <hr>
 <h3>flow</h3>
-<h2>Liri.js</h2>
+<h2 id="Liri.js app">Liri.js</h2>
 <p>As it sounds the app is loosly structured as a alt for #siri from @apple. The program takes in a serries of 4 optional commands utilizing three seperate api calls. Each option consists of a specific serries of key words to enact the apps features:
 <ul>
   <li>Bands in town | concert-this</li>
@@ -41,4 +41,11 @@ The First objective was to structure the content in away that allowed me to form
   <li>wild card | do-what-i-say</li>
 </ul>
  </p>
-<img src="https://i.imgur.com/PrXmaJv.png" alt="Trulli" width="500" height="auto">
+<img src="https://i.imgur.com/PrXmaJv.png" width="500" height="auto" alt="image of liri.js page code">
+
+<hr>
+<h2 alt="Bands in town api">Bands In Town</h2>
+<p>
+
+</p>
+<img src="https://i.imgur.com/WYa266N.png" width="500" height="auto" alt="image of bandsInTown.js page code">
