@@ -31,7 +31,7 @@ The First objective was to structure the content in away that allowed me to form
   <li>.DS_store</li>
 </ul>
 <hr>
-<h3><center>flow</center></h3>
+<h3>flow</h3>
 <h2 id="Liri.js app">Liri.js</h2>
 <p>As it sounds the app is loosly structured as a alt for #siri from @apple. The program takes in a serries of 4 optional commands utilizing three seperate api calls. Each option consists of a specific serries of key words to enact the apps features:
 <ul>
@@ -46,6 +46,10 @@ The First objective was to structure the content in away that allowed me to form
 <hr>
 <h2 alt="Bands in town api">Bands In Town</h2>
 <p>
-
+Bandsintown is a music website, billed as a "platform where artists and fans connect". The site allows users to receive notifications about tours and bands playing in the user’s area. It also has tools for artists to manage tour dates.
+  <br>
+  For theis page you will see inthe image below the required commands ar elisted at the top of the p[age above all other lines of code. From there we move into the primary function of the segmet of the app to listen for the information listed on lirl.js, to take that infrmation and send a get request via AXIOS API to return content pertaining to the request. This request is called as followes. 
+  
+ ```node liri.js concert-this [band name]```
 </p>
 <img src="https://i.imgur.com/WYa266N.png" width="500" height="auto" alt="image of bandsInTown.js page code">
