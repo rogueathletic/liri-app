@@ -8,7 +8,6 @@ The First objective was to structure the content in away that allowed me to form
 </p>
 <ul>
   <li><h1>Program Files</h1></li>
-    <li>.env</li>
     <li>.gitignore</li>
     <li>index.html</li>
     <li>keys.js</li>
@@ -25,4 +24,21 @@ The First objective was to structure the content in away that allowed me to form
   <li>OMDB.js</li>
   <li>searchSpotify.js</li>
 </ul>
-
+<ul>
+  <li><h1>Omitted files</h1></li>
+  <li>.env</li>
+  <li>Node_Modules</li>
+  <li>.DS_store</li>
+</ul>
+<hr>
+<h3>flow</h3>
+<h4>Liri.js</h4>
+<p>As it sounds the app is loosly structured as a alt for #siri from @apple. The program takes in a serries of 4 optional commands utilizing three seperate api calls. Each option consists of a specific serries of key words to enact the apps features:
+<ul>
+  <li>Bands in town | concert-this</li>
+  <li>Spotify| Sspotify-this-song</li>
+  <li>OMDB | movie-this</li>
+  <li>wild card | do-what-i-say</li>
+</ul>
+ </p>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/zIldNHi"><a href="//imgur.com/zIldNHi">liri.js</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
