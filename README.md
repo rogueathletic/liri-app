@@ -68,6 +68,8 @@ Bandsintown is a music website, billed as a "platform where artists and fans con
 <img src="https://i.imgur.com/KE1Dgfc.png" width="100%" height="auto" alt="image of bandsInTown.js page code">
 <hr>
 <h2>OMDB</h2>
-<p>the OMDB and the Band sIn Town API calls follow may of the exact same processes. They both utilize an api key and have the same formatting for returning errirs, logging error content and returning a value if the user submits a qualified or an unqualified statement. The code to into in terminal for this api is listed below.</p>
+<p>the OMDB and the Bands In Town API calls follow may of the exact same processes. They both utilize an api key and have the same formatting for returning errirs, logging error content and returning a value if the user submits a qualified or an unqualified statement. There is one single and important difference that is required to be able to call the individual responses from the system. Thus script requires the variables to be Capitolized as this is how they are formatted in the JSON data The code to into in terminal for this api is listed below.</p>
 ```node liri.js movie-this [movie title]```
 <img src="https://i.imgur.com/TvU4Flz.png" width="100%" height="auto" alt="image of omdb.js page code">
+<h2>Terminal Response for a qualified submission</h2>
+<img src="https://i.imgur.com/l6X6Tc2.png" width="100%" height="auto" alt="image of omdb.js page code">
