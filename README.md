@@ -19,5 +19,10 @@ The First objective was to structure the content in away that allowed me to form
     <li>Random.txt</li>
     <li>Readme.md</li>
   </ul>
-
+<ul>
+  <li><h1>API Files</h1></li>
+  <li>Bandsintown.js</li>
+  <li>OMDB.js</li>
+  <li>searchSpotify.js</li>
+</ul>
 
