@@ -31,7 +31,7 @@ The First objective was to structure the content in away that allowed me to form
   <li>.DS_store</li>
 </ul>
 <hr>
-<h3>flow</h3>
+<h3><center>flow</center></h3>
 <h2 id="Liri.js app">Liri.js</h2>
 <p>As it sounds the app is loosly structured as a alt for #siri from @apple. The program takes in a serries of 4 optional commands utilizing three seperate api calls. Each option consists of a specific serries of key words to enact the apps features:
 <ul>
