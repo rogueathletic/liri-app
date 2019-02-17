@@ -54,5 +54,9 @@ Bandsintown is a music website, billed as a "platform where artists and fans con
  ```node liri.js concert-this [band name]```
 </p>
 <img src="https://i.imgur.com/WYa266N.png" width="100%" height="auto" alt="image of bandsInTown.js page code">
-<p>In the image below you will see a zoomed in version of the existing Bands in town code. This portion of the code allows us to not only record the errors and findings to log.txt; but, it allows us to provide a value if te users input is undefined.</p>
-<img src="https://i.imgur.com/8Gj6AtC.png" width="100%" height="auto" alt="image of bandsInTown.js page code">
+<p>In the image below you will see a highlighted version of the existing Bands in town code. This portion of the code allows us to not only record the errors and findings to log.txt; but, it allows us to provide a value if te users input is undefined.</p>
+<img src="https://i.imgur.com/8Gj6AtC.png" width="100%" height="auto" alt="image of bandsInTown.js response code">
+<p>When null or undefined are submitted, there is no set response for the system to send back. Because of this we want to make sure we provide a response so the user knows not only there was an error while providing a return value for the users submission. You can review this response below</p>
+<img src="https://i.imgur.com/r76aWBo.png" width="100%" height="auto" alt="image of bandsInTown.js page code">
+<hr>
+<h2>OMDB</h2>
