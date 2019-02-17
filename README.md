@@ -32,7 +32,7 @@ The First objective was to structure the content in away that allowed me to form
 </ul>
 <hr>
 <h3>flow</h3>
-<h4>Liri.js</h4>
+<h2>Liri.js</h2>
 <p>As it sounds the app is loosly structured as a alt for #siri from @apple. The program takes in a serries of 4 optional commands utilizing three seperate api calls. Each option consists of a specific serries of key words to enact the apps features:
 <ul>
   <li>Bands in town | concert-this</li>
