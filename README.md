@@ -41,6 +41,31 @@ The First objective was to structure the content in away that allowed me to form
   <li>wild card | do-what-i-say</li>
 </ul>
  </p>
+ ```require("dotenv").config();
+
+var searchSpotify = require("./searchSpotify.js");  // calls from the spotify API page
+var keys = require("./keys.js");
+var bands = require("./bandsInTown.js");  // calls from the Bands In Town API page
+var omdb = require("./omdb.js");  // calls from the OMDB API page
+var doWhatISay = require("./doWhatISay.js");   // calls from the alt spotify page Do what i say API page
+var something = process.argv[2];
+switch (something) {
+  case "spotify-this-song":
+    searchSpotify(process.argv[3]);
+    break;
+  case "concert-this":
+    bands(process.argv[3]);
+    break;
+    case "movie-this":
+    omdb(process.argv[3]);
+    break;
+    case "do-what-i-say":
+    doWhatISay();
+    break;
+  default:
+    break;
+
+  }```
 <img src="https://i.imgur.com/PrXmaJv.png" width="500" height="auto" alt="image of liri.js page code">
 
 <hr>
