@@ -72,4 +72,4 @@ Bandsintown is a music website, billed as a "platform where artists and fans con
 ```node liri.js movie-this [movie title]```
 <img src="https://i.imgur.com/TvU4Flz.png" width="100%" height="auto" alt="image of omdb.js page code">
 <h2>Terminal Response for a qualified submission</h2>
-<img src="https://i.imgur.com/l6X6Tc2.png" width="100%" height="auto" alt="image of omdb.js page code">
+<img src="https://i.imgur.com/l6X6Tc2.png?1" width="100%" height="auto" alt="image of omdb.js page code">
