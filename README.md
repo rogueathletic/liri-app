@@ -43,6 +43,12 @@ The First objective was to structure the content in away that allowed me to form
  </p>
  
 <h2> LIRI.JS </h2>
+
+<p>The instructions were clear and consise, the objective of this project was to create a Syri-like program that upon providing a simple command paired with a value to go with the command the user will return a formatted and structured response.</p>
+<ul>
+  <li>FS - Utilizing File system response I was able to append not only errors and void responsed to the log file but the content searched for as well. </li>
+  <li>case/break - although these two processes are different they work really well in allowin gthe developer to structure many values to form a single function to formulate all three different API calls. <ul><li>Case: listens for the submitted command<li>Break sends the code to the next line to refference the ===<li>err - if all else fails err is enacted notifying the user the er was an error</li></ul></li>
+</ul>
 <img src="https://i.imgur.com/hUSURCx.png" alt="screen shot ofliri.js page" width="100%" height="auto" meta="Author: Jason Schutz">
 
 
