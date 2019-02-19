@@ -1,10 +1,9 @@
-<div id="header">
+<div id="header" style="align="center"">
 <span><a href="#bands">Bandsintown.js</a> | </span>
 <span><a href="#spotify">searchSpotify.js</a> | </span>
 <span><a href="#omdb">omdb.js</a> | </span>
 <span><a href="#do-what-say">doWhatISay.js</a></span>
 <span><a href="mailto:jason@skunkworksweb.io">contact</a></span>
-<span><a href="sms:7149168783">Text</a></span>
 </div>
 
 <div style="text-align: justify ; text-justify: inter-word;"><h1>*NOTE*</h1>
