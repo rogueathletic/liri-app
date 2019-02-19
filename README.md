@@ -66,9 +66,11 @@ The First objective was to structure the content in away that allowed me to form
 <img src="https://i.imgur.com/mzPIQwk.png" alt="screen shot of bandsInTown.js code with an empty submission" width="100%" height="auto" meta="Author: Jason Schutz">
 
 <h2> SEARCHSPOTIFY.JS </h2>
+<p>this program is quite different on set up from the AXIOS calls used for Bands in Town and OMDB, you will see below there is no AXIOS call here. This is because we have been supplied with our own personal API Call ID and our own API Call Secret. By using these for submission we do not need to use axios. For readability however we do need to use the FS structure to add our content to the logs</p>
 <img src="https://i.imgur.com/BIhIeF5.png" alt="screen shot of searchSpotify code with a submission of My Way by Calvin Harris" width="100%" height="auto" meta="Author: Jason Schutz">
 
 <h2> SEARCHSPOTIFY.JS NULL </h2>
+this program is quite different on set up from the AXIOS calls used for Bands in Town and OMDB, you will see below there is no AXIOS call here. This is because we have been supplied with our own personal API Call ID and our own API Call Secret. By using these for submission we do not need to use axios. For readability however we do need to use the FS structure to add our content to the logs. Much like OMDB and Bands In Town However when the system does not read a value from after the call to request it returns nothing. We dont want that as our users are here to get something, this being said we supply them with a cashed resonse so they know everything is cool they just put or forgot to put their song title in.</p>
 <img src="https://i.imgur.com/yODNuNn.png" alt="screen shot of searchSpotify.js code with a void submission of NULL" width="100%" height="auto" meta="Author: Jason Schutz">
 
 <h2> OMDB.js </h2>
