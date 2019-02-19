@@ -1,3 +1,6 @@
+<h1><u>NOTE</u></h1>
+
+
 <strong>liri.js Node App</strong>
 <h1>UCSD Full Stack Coding Bootcamp</h1> 
 <h2>MY10 Liri App</h2>
