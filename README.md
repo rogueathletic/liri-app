@@ -1,4 +1,4 @@
-<div style="text-align: justify;"><h1>*NOTE*</h1>
+<div style="text-align: justify ; text-justify: inter-word;"><h1>*NOTE*</h1>
 <em>The sensitive informatin required to produce a result form this program has been removed for safety and security purposes. You can follow the link below to get an api of your own to play with this program.</em>
 <hr>
 <br>
