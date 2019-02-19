@@ -1,4 +1,4 @@
-<h1>*NOTE*</h1>
+<div style="text-align: justify;"><h1>*NOTE*</h1>
 <em>The sensitive informatin required to produce a result form this program has been removed for safety and security purposes. You can follow the link below to get an api of your own to play with this program.</em>
 <hr>
 <br>
@@ -94,3 +94,4 @@ this program is quite different on set up from the AXIOS calls used for Bands in
 <h2> Do what I say </h2>
 wild cards are always fun. For this api call we are storing the content to request on a remote file to sit idle until it is called upon. Once called upon it will provide the title name of a song and return to the app user a set of values for the song as a reward for interacting with the app. I think in the future it would be more fun to set this as a random value so each time the user calls on this functin in terminal they will receive something new forther promoting the value proposition for interacting.
 <img src="https://i.imgur.com/97tIKv0.png" alt="screen shot ofscreen shot of dowhatisay.js code" width="100%" height="auto" meta="Author: Jason Schutz">
+</div>
