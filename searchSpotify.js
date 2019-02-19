@@ -11,22 +11,7 @@ var fs = require("fs");
 
     var artist = construct;
     spotify.search({
-        type: 'track',
-        query: artist
-      },
-
-      function (err, data) {
-        if (err) {
-          return console.log('Error occurred: ' + err);
-        }
-
-
-        // console.log( "All Tracks:", data.tracks.items );
-        var track = (data.tracks.items[0]);
-        console.log("                               ");
-        console.log(">----------SPOTIFY------------<");
-        console.log(">----------THIS---------------<");
-        console.log(">----------SONG---------------<");
+  
         console.log(">----------API----------------<");
         console.log(">----------SEARCH-------------<");
         console.log(">----------RESULTS------------<");
@@ -43,8 +28,6 @@ var fs = require("fs");
         console.log(">----------SEARCH-------------<");
         console.log(">----------END----------------<");
         console.log("                               ");
-
-
       });
 
   }
