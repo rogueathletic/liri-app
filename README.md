@@ -1,11 +1,11 @@
 <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;liri.js Node App</h1>
 <div id="header" style="align="center"">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span><a href="#bands">Bandsintown.js</a> | </span>
-<span><a href="#spotify">searchSpotify.js</a> | </span>
-<span><a href="#omdb">omdb.js</a> | </span>
-<span><a href="#do-what-say">doWhatISay.js</a> | </span>
-<span><a href="mailto:jason@skunkworksweb.io">contact</a></span>
+  <span><a href="#bands" target="_blank">Bandsintown.js</a> | </span>
+<span><a href="#spotify" target="_blank">searchSpotify.js</a> | </span>
+<span><a href="#omdb" target="_blank">omdb.js</a> | </span>
+<span><a href="#do-what-say" target="_blank">doWhatISay.js</a> | </span>
+<span><a href="mailto:jason@skunkworksweb.io" target="_blank">contact</a></span>
 </div>
 
 <div style="text-align: justify ; text-justify: inter-word;"><h1>*NOTE*</h1>
