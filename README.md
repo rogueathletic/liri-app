@@ -5,7 +5,7 @@
 <span><a href="#spotify" target="_blank">searchSpotify.js</a> | </span>
 <span><a href="#omdb" target="_blank">omdb.js</a> | </span>
 <span><a href="#do-what-say" target="_blank">doWhatISay.js</a> | </span>
-<span><a href="mailto:jason@skunkworksweb.io" target="_blank">contact</a></span>
+<span><a href="mailto:jason@skunkworksweb.io">contact</a></span>
 </div>
 
 <div style="text-align: justify ; text-justify: inter-word;"><h1>*NOTE*</h1>
@@ -105,3 +105,4 @@ this program is quite different on set up from the AXIOS calls used for Bands in
 wild cards are always fun. For this api call we are storing the content to request on a remote file to sit idle until it is called upon. Once called upon it will provide the title name of a song and return to the app user a set of values for the song as a reward for interacting with the app. I think in the future it would be more fun to set this as a random value so each time the user calls on this functin in terminal they will receive something new forther promoting the value proposition for interacting.
 <img src="https://i.imgur.com/97tIKv0.png" alt="screen shot ofscreen shot of dowhatisay.js code" width="100%" height="auto" meta="Author: Jason Schutz" id="do-what-say">
 </div>
+<h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;© 2019 | Jason Schutz - Skunkworksweb.IO</h1>
