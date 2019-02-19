@@ -43,28 +43,28 @@ The First objective was to structure the content in away that allowed me to form
  </p>
  
 <h2> LIRI.JS </h2>
-<img src="https://i.imgur.com/hUSURCx.png" alt="screen shot ofliri.js page" width="100" height="auto" meta="Author: Jason Schutz">
+<img src="https://i.imgur.com/hUSURCx.png" alt="screen shot ofliri.js page" width="100%" height="auto" meta="Author: Jason Schutz">
 
 
 <h2> BANDSINTOWN.JS </h2>
-<img src="https://i.imgur.com/iRhQ1O3.png" alt="screen shot of bandsInTown.js code with a NOFX Submission" width="100" height="auto" meta="Author: Jason Schutz">
+<img src="https://i.imgur.com/iRhQ1O3.png" alt="screen shot of bandsInTown.js code with a NOFX Submission" width="100%" height="auto" meta="Author: Jason Schutz">
 
 <h2> BANDSINTOWN.JS null </h2>
-<img src="https://i.imgur.com/mzPIQwk.png" alt="screen shot of bandsInTown.js code with an empty submission" width="100" height="auto" meta="Author: Jason Schutz">
+<img src="https://i.imgur.com/mzPIQwk.png" alt="screen shot of bandsInTown.js code with an empty submission" width="100%" height="auto" meta="Author: Jason Schutz">
 
 <h2> SEARCHSPOTIFY.JS </h2>
-<img src="https://i.imgur.com/BIhIeF5.png" alt="screen shot of searchSpotify code with a submission of My Way by Calvin Harris" width="100" height="auto" meta="Author: Jason Schutz">
+<img src="https://i.imgur.com/BIhIeF5.png" alt="screen shot of searchSpotify code with a submission of My Way by Calvin Harris" width="100%" height="auto" meta="Author: Jason Schutz">
 
 <h2> SEARCHSPOTIFY.JS NULL </h2>
-<img src="https://i.imgur.com/yODNuNn.png" alt="screen shot of searchSpotify.js code with a void submission of NULL" width="100" height="auto" meta="Author: Jason Schutz">
+<img src="https://i.imgur.com/yODNuNn.png" alt="screen shot of searchSpotify.js code with a void submission of NULL" width="100%" height="auto" meta="Author: Jason Schutz">
 
 
 
 <h2> OMDB.js </h2>
-<img src="https://i.imgur.com/FLZgIXh.png" alt="screen shot of omdb.js code with a Tombstone movie submission" width="100" height="auto" meta="Author: Jason Schutz">
+<img src="https://i.imgur.com/FLZgIXh.png" alt="screen shot of omdb.js code with a Tombstone movie submission" width="100%" height="auto" meta="Author: Jason Schutz">
 
 <h2> OMDB.JS NULL </h2>
-<img src="https://i.imgur.com/ADxvkPi.png" alt="screen shot of omdb.js code submission with a void submission of NULL" width="100" height="auto" meta="Author: Jason Schutz">
+<img src="https://i.imgur.com/ADxvkPi.png" alt="screen shot of omdb.js code submission with a void submission of NULL" width="100%" height="auto" meta="Author: Jason Schutz">
 
 <h2> Do what I say </h2>
-<img src="https://i.imgur.com/97tIKv0.png" alt="screen shot ofscreen shot of dowhatisay.js code" width="100" height="auto" meta="Author: Jason Schutz">
+<img src="https://i.imgur.com/97tIKv0.png" alt="screen shot ofscreen shot of dowhatisay.js code" width="100%" height="auto" meta="Author: Jason Schutz">
