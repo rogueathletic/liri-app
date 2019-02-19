@@ -6,65 +6,69 @@ It's on Netflix!
 {"Title":"Tombstone","Year":"1993","Rated":"R","Released":"25 Dec 1993","Runtime":"130 min","Genre":"Action, Biography, Drama, History, Romance, Western","Director":"George P. Cosmatos, Kevin Jarre","Writer":"Kevin Jarre","Actors":"Kurt Russell, Val Kilmer, Sam Elliott, Bill Paxton","Plot":"A successful lawman's plans to retire anonymously in Tombstone, Arizona, are disrupted by the kind of outlaws he was famous for eliminating.","Language":"English, Latin","Country":"USA","Awards":"2 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BODRkYzA4MGItODE2MC00ZjkwLWI2NDEtYzU1NzFiZGU1YzA0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.8/10"},{"Source":"Rotten Tomatoes","Value":"73%"},{"Source":"Metacritic","Value":"50/100"}],"Metascore":"50","imdbRating":"7.8","imdbVotes":"112,017","imdbID":"tt0108358","Type":"movie","DVD":"02 Dec 1997","BoxOffice":"N/A","Production":"Buena Vista","Website":"N/A","Response":"True"}
 -----------------------
 -----------------------
-    ___________________   
-                          
+______________________________
+
+______________________________
+
     spotify-this-song     
     Ret: null/undefined   
                           
 You should listen to 'Pennywise' since we cant find what you typed
 
-
 It's OG PW
-    ___________________     
 
-  --------  
+______________________________
+
+______________________________
 
 Calvin Harris
 My Way
 https://p.scdn.co/mp3-preview/33060c2bf30b7b5f6db0d539cdac800e93b0c49d?cid=8c5263fe87184a84845c71e2a1fa4ce6My Way
-  --------  
 
------------------------
+______________________________
 
------------------------
+______________________________
+
+___________________ 
 If you love awkward old men dancing & singing songs they didnt write then you should check this out: html://bit.ly/B-S__B
------------------------
+------------------------------
 They Are awkward!
------------------------
------------------------
 
-Messequartier Dornbirn-----------------------
+______________________________
+
+______________________________
+
+Messequartier Dornbirn---------
 Dornbirn-----------------------
-2019-05-12T15:45:00-----------------------
------------------------
-WiZink Center-----------------------
-Madrid-----------------------
-2019-05-14T16:00:00-----------------------
------------------------
-Temple Newsam House-----------------------
-Leeds-----------------------
-2019-05-25T11:00:00-----------------------
------------------------
+2019-05-12T15:45:00------------
+-------------------------------
+WiZink Center------------------
+Madrid-------------------------
+2019-05-14T16:00:00------------
+-------------------------------
+Temple Newsam House------------
+Leeds--------------------------
+2019-05-25T11:00:00------------
+-------------------------------
 Newz Bar-----------------------
-Liverpool-----------------------
-2019-05-26T11:00:00-----------------------
------------------------
-Legend Valley-----------------------
-Thornville-----------------------
-2019-06-02T23:59:00-----------------------
------------------------
-Lokerse Feesten-----------------------
-Lokeren-----------------------
-2019-08-04T10:00:00-----------------------
------------------------
-Lokerse Feesten-----------------------
-Lokeren-----------------------
-2019-08-06T10:00:00-----------------------
------------------------
-Lokerse Feesten-----------------------
-Lokeren-----------------------
-2019-08-11T10:00:00-----------------------
-
+Liverpool----------------------
+2019-05-26T11:00:00------------
+-------------------------------
+Legend Valley------------------
+Thornville---------------------
+2019-06-02T23:59:00------------
+-------------------------------
+Lokerse Feesten----------------
+Lokeren------------------------
+2019-08-04T10:00:00------------
+-------------------------------
+Lokerse Feesten----------------
+Lokeren------------------------
+2019-08-06T10:00:00------------
+-------------------------------
+Lokerse Feesten----------------
+Lokeren------------------------
+2019-08-11T10:00:00------------
 "Response in log.txt from running I want it that way" 
 
 --> Band Show Schedule <-- 
