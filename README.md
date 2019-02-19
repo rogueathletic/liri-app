@@ -53,7 +53,7 @@ The First objective was to structure the content in away that allowed me to form
  </p>
 <p>The instructions were clear and consise, the objective of this project was to create a Syri-like program that upon providing a simple command paired with a value to go with the command the user will return a formatted and structured response.</p>
 <ul>
-  <li>FS - Utilizing File system response I was able to append not only errors and void responsed to the log file but the content searched for as well. </li>
+  <li><b>FS</b> - Utilizing File system response I was able to append not only errors and void responsed to the log file but the content searched for as well. </li>
   <li>case/break - although these two processes are different they work really well in allowin gthe developer to structure many values to form a single function to formulate all three different API calls. 
     <ul>
       <li>Case - listens for the submitted command<li>Break - sends the code to the next line to refference the equality
