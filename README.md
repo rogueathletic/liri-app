@@ -8,7 +8,7 @@
 <span><a href="mailto:jason@skunkworksweb.io">contact</a></span>
 </div>
 
-<div"><h1>*NOTE*</h1>
+<h1>*NOTE*</h1>
 <p>[tip] - click the images below to go directly to its code</p>
 <em>The sensitive informatin required to produce a result form this program has been removed for safety and security purposes. You can follow the link below to get an api of your own to play with this program.</em>
 <hr>
@@ -106,7 +106,7 @@ this program is quite different on set up from the AXIOS calls used for Bands in
 <h2> Do what I say </h2>
 wild cards are always fun. For this api call we are storing the content to request on a remote file to sit idle until it is called upon. Once called upon it will provide the title name of a song and return to the app user a set of values for the song as a reward for interacting with the app. I think in the future it would be more fun to set this as a random value so each time the user calls on this functin in terminal they will receive something new forther promoting the value proposition for interacting.
 <a href="https://github.com/rogueathletic/liri-app/blob/master/doWhatISay.js" alt="link to doWhatISay.js code" target="_blank"><img src="https://i.imgur.com/97tIKv0.png" alt="screen shot ofscreen shot of dowhatisay.js code" width="100%" height="auto" meta="Author: Jason Schutz" id="do-what-say"></a>
-</div>
+
 <br><br><br><br>
 <a href="#top" alt="On Click moves user back to top of screen from © 2019 jason schutz - skunkworksweb.io">
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;© 2 0 1 9 | J a s o n&nbsp;S c h u t z - Skunkworksweb.IO</p></a>
