@@ -65,7 +65,7 @@ function omdb(query) {
       fs.appendFileSync("log.txt", "It's on Netflix!\n");
       console.log("                                   ");
       console.log("               :)                  ");
-      console.log("                                  ");
+      console.log("                                   ");
       return true;
     }
     return false;
