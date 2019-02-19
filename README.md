@@ -1,9 +1,11 @@
 <h1>NOTE</h1>
 The sensitive informatin required to produce a result form this program has been removed for safety and security purposes. You can follow the link below to get an api of your own to play with this program.
-
-
+<hr>
+<br>
 <a href="https://developer.spotify.com">Get Your Own Spotify API key</a>
+<br>
 <a href="https://manager.bandsintown.com/support/bandsintown-api">Get Your Own Bands In Town API key</a>
+<br>
 <a href="https://www.omdbapi.com/">Get Your Own OMDB API key</a>
 
 <strong>liri.js Node App</strong>
