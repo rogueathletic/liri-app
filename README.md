@@ -54,19 +54,18 @@ The First objective was to structure the content in away that allowed me to form
     </ul>
   </li>
        <li>split (",") - a redundant error fix so if the user supplys a names submission of more than one word it will                     combine them together with a comma seperator</li>
-         <li></li>
+         <li>Tee functions for each api call were moved ot their own individual pages to allow ease of editing and trouble shooting when and if an issue arrises. </li>
 </ul>
-        
-        
-        
-        
 <img src="https://i.imgur.com/hUSURCx.png" alt="screen shot ofliri.js page" width="100%" height="auto" meta="Author: Jason Schutz">
 
 
 <h2> BANDSINTOWN.JS </h2>
+
+<p>Utilizing AXIOS to supply the query and receive a return value via a get request, we are able to submit a bands name and in return receive all of the curent shows scheduled for the band.</p>
 <img src="https://i.imgur.com/iRhQ1O3.png" alt="screen shot of bandsInTown.js code with a NOFX Submission" width="100%" height="auto" meta="Author: Jason Schutz">
 
 <h2> BANDSINTOWN.JS null </h2>
+<p>Utilizing AXIOS to supply the query and receive a return value via a get request, we are able to submit a bands name and in return receive all of the curent shows scheduled for the band. You will see on this screen shot our return value is a diferent value. This is ebcuase the user did not type anything into the program after writing the command. Our return value is to nitofy the user infact submitted but they did it incorrrect.</p>
 <img src="https://i.imgur.com/mzPIQwk.png" alt="screen shot of bandsInTown.js code with an empty submission" width="100%" height="auto" meta="Author: Jason Schutz">
 
 <h2> SEARCHSPOTIFY.JS </h2>
@@ -78,10 +77,11 @@ The First objective was to structure the content in away that allowed me to form
 
 
 <h2> OMDB.js </h2>
+<p>Utilizing AXIOS to supply the query and receive a return value via a get request, we are able to submit a movie name and in return receive all of the primary info for the movie.</p>
 <img src="https://i.imgur.com/FLZgIXh.png" alt="screen shot of omdb.js code with a Tombstone movie submission" width="100%" height="auto" meta="Author: Jason Schutz">
 
 <h2> OMDB.JS NULL </h2>
 <img src="https://i.imgur.com/ADxvkPi.png" alt="screen shot of omdb.js code submission with a void submission of NULL" width="100%" height="auto" meta="Author: Jason Schutz">
-
+<p>Utilizing AXIOS to supply the query and receive a return value via a get request, we are able to submit a movie name and in return receive all of the primary info for the movie. You will see on this screen shot our return value is a diferent value. This is ebcuase the user did not type anything into the program after writing the command. Our return value is to nitofy the user infact submitted but they did it incorrrect.</p>
 <h2> Do what I say </h2>
 <img src="https://i.imgur.com/97tIKv0.png" alt="screen shot ofscreen shot of dowhatisay.js code" width="100%" height="auto" meta="Author: Jason Schutz">
