@@ -1,3 +1,4 @@
+<h1 style="text-align: center;">liri.js Node App</h1>
 <div id="header" style="align="center"">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span><a href="#bands">Bandsintown.js</a> | </span>
@@ -17,7 +18,6 @@
 <br>
 <a href="https://www.omdbapi.com/">Get Your Own OMDB API key</a>
 <br>
-<h1>liri.js Node App</h1>
 <h1>UCSD Full Stack Coding Bootcamp</h1> 
 <h2>MY10 Liri App</h2>
 
