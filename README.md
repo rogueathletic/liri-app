@@ -1,8 +1,8 @@
 <div id="header" style="align="center"">
-<span><a href="#bands">Bandsintown.js</a> | </span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span><a href="#bands">Bandsintown.js</a> | </span>
 <span><a href="#spotify">searchSpotify.js</a> | </span>
 <span><a href="#omdb">omdb.js</a> | </span>
-<span><a href="#do-what-say">doWhatISay.js</a></span>
+<span><a href="#do-what-say">doWhatISay.js</a> | </span>
 <span><a href="mailto:jason@skunkworksweb.io">contact</a></span>
 </div>
 
