@@ -8,7 +8,8 @@
 <span><a href="mailto:jason@skunkworksweb.io">contact</a></span>
 </div>
 
-<div style="text-align: justify ; text-justify: inter-word;"><h1>*NOTE*</h1>
+<div"><h1>*NOTE*</h1>
+<p>[tip] - click the images below to go directly to its code</p>
 <em>The sensitive informatin required to produce a result form this program has been removed for safety and security purposes. You can follow the link below to get an api of your own to play with this program.</em>
 <hr>
 <br>
@@ -73,37 +74,38 @@ The First objective was to structure the content in away that allowed me to form
        <li>split (",") - a redundant error fix so if the user supplys a names submission of more than one word it will                     combine them together with a comma seperator</li>
          <li>Tee functions for each api call were moved ot their own individual pages to allow ease of editing and trouble shooting when and if an issue arrises. </li>
 </ul>
-<img src="https://i.imgur.com/hUSURCx.png" alt="screen shot ofliri.js page" width="100%" height="auto" meta="Author: Jason Schutz">
+<a href="https://github.com/rogueathletic/liri-app/blob/master/liri.js" alt="link ot liri.js" target="_blank">
+<img src="https://i.imgur.com/hUSURCx.png" alt="screen shot ofliri.js page" width="100%" height="auto" meta="Author: Jason Schutz"></a>
 
 
 <h2> BANDSINTOWN.JS </h2>
 
 <p>Utilizing AXIOS to supply the query and receive a return value via a get request, we are able to submit a bands name and in return receive all of the curent shows scheduled for the band.</p>
-<img src="https://i.imgur.com/iRhQ1O3.png" alt="screen shot of bandsInTown.js code with a NOFX Submission" width="100%" height="auto" meta="Author: Jason Schutz" id="bands">
+<a href="https://github.com/rogueathletic/liri-app/blob/master/bandsInTown.js" alt="link to bands inTown.js code" target="_blank"><img src="https://i.imgur.com/iRhQ1O3.png" alt="screen shot of bandsInTown.js code with a NOFX Submission" width="100%" height="auto" meta="Author: Jason Schutz" id="bands"></a>
 
 <h2> BANDSINTOWN.JS null </h2>
 <p>Utilizing AXIOS to supply the query and receive a return value via a get request, we are able to submit a bands name and in return receive all of the curent shows scheduled for the band. You will see on this screen shot our return value is a diferent value. This is ebcuase the user did not type anything into the program after writing the command. Our return value is to nitofy the user infact submitted but they did it incorrrect.</p>
-<img src="https://i.imgur.com/mzPIQwk.png" alt="screen shot of bandsInTown.js code with an empty submission" width="100%" height="auto" meta="Author: Jason Schutz">
+<a href="https://github.com/rogueathletic/liri-app/blob/master/bandsInTown.js" alt="link to bands inTown.js code" target="_blank"><img src="https://i.imgur.com/mzPIQwk.png" alt="screen shot of bandsInTown.js code with an empty submission" width="100%" height="auto" meta="Author: Jason Schutz"></a>
 
 <h2> SEARCHSPOTIFY.JS </h2>
 <p>this program is quite different on set up from the AXIOS calls used for Bands in Town and OMDB, you will see below there is no AXIOS call here. This is because we have been supplied with our own personal API Call ID and our own API Call Secret. By using these for submission we do not need to use axios. For readability however we do need to use the FS structure to add our content to the logs</p>
-<img src="https://i.imgur.com/BIhIeF5.png" alt="screen shot of searchSpotify code with a submission of My Way by Calvin Harris" width="100%" height="auto" meta="Author: Jason Schutz" id="spotify">
+<a href="https://github.com/rogueathletic/liri-app/blob/master/searchSpotify.js" alt="link to searchSpotifi.js code" target="_blank"><img src="https://i.imgur.com/BIhIeF5.png" alt="screen shot of searchSpotify code with a submission of My Way by Calvin Harris" width="100%" height="auto" meta="Author: Jason Schutz" id="spotify"></a>
 
 <h2> SEARCHSPOTIFY.JS NULL </h2>
 this program is quite different on set up from the AXIOS calls used for Bands in Town and OMDB, you will see below there is no AXIOS call here. This is because we have been supplied with our own personal API Call ID and our own API Call Secret. By using these for submission we do not need to use axios. For readability however we do need to use the FS structure to add our content to the logs. Much like OMDB and Bands In Town However when the system does not read a value from after the call to request it returns nothing. We dont want that as our users are here to get something, this being said we supply them with a cashed resonse so they know everything is cool they just put or forgot to put their song title in.</p>
-<img src="https://i.imgur.com/yODNuNn.png" alt="screen shot of searchSpotify.js code with a void submission of NULL" width="100%" height="auto" meta="Author: Jason Schutz">
+<a href="https://github.com/rogueathletic/liri-app/blob/master/searchSpotify.js" alt="link to searchSpotifi.js code" target="_blank"><img src="https://i.imgur.com/yODNuNn.png" alt="screen shot of searchSpotify.js code with a void submission of NULL" width="100%" height="auto" meta="Author: Jason Schutz"></a>
 
 <h2> OMDB.js </h2>
 <p>Utilizing AXIOS to supply the query and receive a return value via a get request, we are able to submit a movie name and in return receive all of the primary info for the movie. ***One very important trick when producing this app, youll want to pay very close attention to the syntax of the content in the API calls. For OMDB the titles of each section in this API is Capitolized. This means if the script does not match this syntactical format it will return object undefined***</p>
-<img src="https://i.imgur.com/FLZgIXh.png" alt="screen shot of omdb.js code with a Tombstone movie submission" width="100%" height="auto" meta="Author: Jason Schutz" id="omdb">
+<a href="https://github.com/rogueathletic/liri-app/blob/master/omdb.js" alt="link to omdb.js code" target="_blank"><img src="https://i.imgur.com/FLZgIXh.png" alt="screen shot of omdb.js code with a Tombstone movie submission" width="100%" height="auto" meta="Author: Jason Schutz" id="omdb"></a>
 
 <h2> OMDB.JS NULL </h2>
 <p>Utilizing AXIOS to supply the query and receive a return value via a get request, we are able to submit a movie name and in return receive all of the primary info for the movie. You will see on this screen shot our return value is a diferent value. This is ebcuase the user did not type anything into the program after writing the command. Our return value is to nitofy the user infact submitted but they did it incorrrect.</p>
-<img src="https://i.imgur.com/ADxvkPi.png" alt="screen shot of omdb.js code submission with a void submission of NULL" width="100%" height="auto" meta="Author: Jason Schutz">
+<a href="https://github.com/rogueathletic/liri-app/blob/master/omdb.js" alt="link to omdb.js code" target="_blank"><img src="https://i.imgur.com/ADxvkPi.png" alt="screen shot of omdb.js code submission with a void submission of NULL" width="100%" height="auto" meta="Author: Jason Schutz"></a>
 
 <h2> Do what I say </h2>
 wild cards are always fun. For this api call we are storing the content to request on a remote file to sit idle until it is called upon. Once called upon it will provide the title name of a song and return to the app user a set of values for the song as a reward for interacting with the app. I think in the future it would be more fun to set this as a random value so each time the user calls on this functin in terminal they will receive something new forther promoting the value proposition for interacting.
-<img src="https://i.imgur.com/97tIKv0.png" alt="screen shot ofscreen shot of dowhatisay.js code" width="100%" height="auto" meta="Author: Jason Schutz" id="do-what-say">
+<a href="https://github.com/rogueathletic/liri-app/blob/master/doWhatISay.js" alt="link to doWhatISay.js code" target="_blank"><img src="https://i.imgur.com/97tIKv0.png" alt="screen shot ofscreen shot of dowhatisay.js code" width="100%" height="auto" meta="Author: Jason Schutz" id="do-what-say"></a>
 </div>
 <br><br><br><br>
 <a href="#top" alt="On Click moves user back to top of screen from © 2019 jason schutz - skunkworksweb.io">
