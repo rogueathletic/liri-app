@@ -41,9 +41,6 @@ The First objective was to structure the content in away that allowed me to form
   <li>wild card | do-what-i-say</li>
 </ul>
  </p>
- 
-<h2> LIRI.JS </h2>
-
 <p>The instructions were clear and consise, the objective of this project was to create a Syri-like program that upon providing a simple command paired with a value to go with the command the user will return a formatted and structured response.</p>
 <ul>
   <li>FS - Utilizing File system response I was able to append not only errors and void responsed to the log file but the content searched for as well. </li>
@@ -74,14 +71,14 @@ The First objective was to structure the content in away that allowed me to form
 <h2> SEARCHSPOTIFY.JS NULL </h2>
 <img src="https://i.imgur.com/yODNuNn.png" alt="screen shot of searchSpotify.js code with a void submission of NULL" width="100%" height="auto" meta="Author: Jason Schutz">
 
-
-
 <h2> OMDB.js </h2>
-<p>Utilizing AXIOS to supply the query and receive a return value via a get request, we are able to submit a movie name and in return receive all of the primary info for the movie.</p>
+<p>Utilizing AXIOS to supply the query and receive a return value via a get request, we are able to submit a movie name and in return receive all of the primary info for the movie. ***One very important trick when producing this app, youll want to pay very close attention to the syntax of the content in the API calls. For OMDB the titles of each section in this API is Capitolized. This means if the script does not match this syntactical format it will return object undefined***</p>
 <img src="https://i.imgur.com/FLZgIXh.png" alt="screen shot of omdb.js code with a Tombstone movie submission" width="100%" height="auto" meta="Author: Jason Schutz">
 
 <h2> OMDB.JS NULL </h2>
-<img src="https://i.imgur.com/ADxvkPi.png" alt="screen shot of omdb.js code submission with a void submission of NULL" width="100%" height="auto" meta="Author: Jason Schutz">
 <p>Utilizing AXIOS to supply the query and receive a return value via a get request, we are able to submit a movie name and in return receive all of the primary info for the movie. You will see on this screen shot our return value is a diferent value. This is ebcuase the user did not type anything into the program after writing the command. Our return value is to nitofy the user infact submitted but they did it incorrrect.</p>
+<img src="https://i.imgur.com/ADxvkPi.png" alt="screen shot of omdb.js code submission with a void submission of NULL" width="100%" height="auto" meta="Author: Jason Schutz">
+
 <h2> Do what I say </h2>
+wild cards are always fun. For this api call we are storing the content to request on a remote file to sit idle until it is called upon. Once called upon it will provide the title name of a song and return to the app user a set of values for the song as a reward for interacting with the app. I think in the future it would be more fun to set this as a random value so each time the user calls on this functin in terminal they will receive something new forther promoting the value proposition for interacting.
 <img src="https://i.imgur.com/97tIKv0.png" alt="screen shot ofscreen shot of dowhatisay.js code" width="100%" height="auto" meta="Author: Jason Schutz">
