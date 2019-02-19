@@ -1,5 +1,5 @@
-<h1>NOTE</h1>
-The sensitive informatin required to produce a result form this program has been removed for safety and security purposes. You can follow the link below to get an api of your own to play with this program.
+<h1>*NOTE*</h1>
+<em>The sensitive informatin required to produce a result form this program has been removed for safety and security purposes. You can follow the link below to get an api of your own to play with this program.</em>
 <hr>
 <br>
 <a href="https://developer.spotify.com">Get Your Own Spotify API key</a>
@@ -7,8 +7,8 @@ The sensitive informatin required to produce a result form this program has been
 <a href="https://manager.bandsintown.com/support/bandsintown-api">Get Your Own Bands In Town API key</a>
 <br>
 <a href="https://www.omdbapi.com/">Get Your Own OMDB API key</a>
-
-<strong>liri.js Node App</strong>
+<br>
+<h1>liri.js Node App</h1>
 <h1>UCSD Full Stack Coding Bootcamp</h1> 
 <h2>MY10 Liri App</h2>
 
